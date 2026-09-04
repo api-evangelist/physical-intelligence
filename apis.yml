@@ -39,7 +39,9 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
-position: Provider
+  source:
+  - {url: 'https://www.physicalintelligence.company', status: 308, note: 'declared website redirects to https://www.pi.website/ — a different registrable domain (physicalintelligence.company -> pi.website), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
+position: Producing
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/physical-intelligence.png
 tags:
