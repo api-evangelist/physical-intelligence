@@ -51,7 +51,7 @@ tags:
   - Embodied AI
   - Reinforcement Learning
   - Imitation Learning
-  - Open-Source
+  - Open Source
   - Open Weights
   - pi0
   - openpi
@@ -70,6 +70,7 @@ tags_raw:
   - openpi
   - Manipulation
   - Generalist Policy
+  - Open-Source
 url: https://raw.githubusercontent.com/api-evangelist/physical-intelligence/refs/heads/main/apis.yml
 created: '2026-05-23'
 modified: '2026-05-23'
