@@ -1,4 +1,4 @@
-# physical-intelligence
+# Physical Intelligence
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Physical Intelligence — foundation models for robotics
+Physical Intelligence (often styled "Pi" or "π") is a San Francisco-based research company building general-purpose foundation models for robotics with the stated goal of producing learning algorithms that can control any robot to do any task. The company has published a continuing line of Vision-Language-Action (VLA) models: π0 (October 2024, first generalist multi-task multi-robot policy), π0-FAST (autoregressive variant via Real-time Action Chunking / FAST tokenization), π0.5 (April 2025, open-world generalization), π*0.6 (November 2025, reinforcement-learning from experience), and π0.7 (April 2026, steerable model with emergent capabilities). Physical Intelligence releases significant work as open source: the openpi repository (~12K stars) is the canonical home for π0 weights and code, with companion repos including real-time-chunking-kinetix, pi-data-sharing, aloha, augmax, and rlds_dataset_builder. The company does not yet offer a hosted commercial API; access to the platform is via open-weight models and research collaborations.
+
+**Areas:** Robotics · Foundation Models · Vision Language Action · Embodied AI · Reinforcement Learning · Imitation Learning · Open Source · Open Weights · pi0 · openpi · Manipulation · Generalist Policy
+
+## Physical Intelligence on APIs.io
+
+Everything profiled for Physical Intelligence is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/physical-intelligence/](https://apis.io/providers/physical-intelligence/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Physical Intelligence Domain Security](https://apis.io/security/physical-intelligence/physical-intelligence-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.physicalintelligence.company)
+- [Blog](https://www.pi.website/blog)
+- [GitHub](https://github.com/Physical-Intelligence)
+
+## API Evangelist rating
+
+**Kin Score 3.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/physical-intelligence/](https://apis.io/providers/physical-intelligence/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Physical Intelligence: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/physical-intelligence/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
